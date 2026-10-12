@@ -23,3 +23,15 @@ document_result = {
     "global_confidence": 0.0,
     "is_legible": False
 }
+
+#OpenCV	Detectar desenfoque, inclinación, sombras y defectos visuales.
+
+#PyMuPDF	Leer y procesar archivos PDF, contar páginas y extraer texto existente.
+
+#OCR (PaddleOCR o Tesseract)	Reconocer las palabras de documentos escaneados como imágenes.
+
+#RapidFuzz	Comparar textos y detectar posibles diferencias entre minuta y escritura.
+
+#pandas	Calcular indicadores y exportar reportes a Excel.
+
+#Streamlit o Flask	Construir la interfaz para el personal.
